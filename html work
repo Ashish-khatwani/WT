@@ -1,1 +1,41 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="grey">
+this is a home page.
+<h1>
+    <center><i>welcome to heading 1.</i></center>
+</h1>
+<b>
+    welcome to bold.
+</b>
+<p>
+    welcome to a paragraph.
+</p>
+<img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg">
+<br>
+<a href="https://pixabay.com/photos/tree-sunset-clouds-sky-silhouette-736885/">click here to downlowad the above image</a>
+<ul>
+    <li>item 1</li>
+    <li>item 2</li>
+</ul>
+<ol>
+    <li>item 1</li>
+    <li>item 2</li>
+</ol>
+<table>
+    <tr>
+        <th> 1 </th>
+        <th> 2 </th>
+    </tr>
+    <td> 3 </td>
+    <td> 4 </td>
+</table>
+<h4 style="background-color: skyblue;">This is addictive!</h4>
+</body>
+</html>
