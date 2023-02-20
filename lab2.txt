@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="myDiv">--------</div>
+    <button type="button" onclick="myFunction()">click</button>
+    <script type="text/javascript" src="D:\21it066\lab3.js"></script>
+</body>
+</html>
+
+
+"use strict";
+function myFunction() {
+    let el=document.createElement('h1');
+    el.textContent='CHARUSAT';
+    document.getElementById("myDiv").appendChild(el);
+    document.getElementById("myDiv").style.border = "2px solid red";
+  }
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="myDiv">--------</div>
+    <label for="quantity1">Quantity1</label>
+    <label for="quantity2">Quantity2</label>
+    <button type="button" onclick="myFunction()">click</button>
+    <script type="text/javascript" src="D:\21it066\lab3(2).js"></script>
+</body>
+</html>
+
+"use strict";
+function myfunction(){
+    let row=document.getElementById('row');
+    let col=document.getElementById('col');
+    
+}
